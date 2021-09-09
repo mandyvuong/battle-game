@@ -10,3 +10,4 @@ gem "sinatra"
 gem "sinatra-reloader"
 gem 'capybara'
 gem 'webrick'
+gem 'launchy'
